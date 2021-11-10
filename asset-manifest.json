@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://lazylion22.github.io/csb-1t9zg/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://lazylion22.github.io/csb-1t9zg/static/js/main.e1056de1.chunk.js",
-    "main.js.map": "https://lazylion22.github.io/csb-1t9zg/static/js/main.e1056de1.chunk.js.map",
+    "main.js": "https://lazylion22.github.io/csb-1t9zg/static/js/main.6ab3c326.chunk.js",
+    "main.js.map": "https://lazylion22.github.io/csb-1t9zg/static/js/main.6ab3c326.chunk.js.map",
     "runtime-main.js": "https://lazylion22.github.io/csb-1t9zg/static/js/runtime-main.b8377fcf.js",
     "runtime-main.js.map": "https://lazylion22.github.io/csb-1t9zg/static/js/runtime-main.b8377fcf.js.map",
-    "static/js/2.37492830.chunk.js": "https://lazylion22.github.io/csb-1t9zg/static/js/2.37492830.chunk.js",
-    "static/js/2.37492830.chunk.js.map": "https://lazylion22.github.io/csb-1t9zg/static/js/2.37492830.chunk.js.map",
+    "static/js/2.cd2fbea2.chunk.js": "https://lazylion22.github.io/csb-1t9zg/static/js/2.cd2fbea2.chunk.js",
+    "static/js/2.cd2fbea2.chunk.js.map": "https://lazylion22.github.io/csb-1t9zg/static/js/2.cd2fbea2.chunk.js.map",
     "index.html": "https://lazylion22.github.io/csb-1t9zg/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://lazylion22.github.io/csb-1t9zg/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.37492830.chunk.js.LICENSE.txt": "https://lazylion22.github.io/csb-1t9zg/static/js/2.37492830.chunk.js.LICENSE.txt"
+    "static/js/2.cd2fbea2.chunk.js.LICENSE.txt": "https://lazylion22.github.io/csb-1t9zg/static/js/2.cd2fbea2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8377fcf.js",
-    "static/js/2.37492830.chunk.js",
+    "static/js/2.cd2fbea2.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.e1056de1.chunk.js"
+    "static/js/main.6ab3c326.chunk.js"
   ]
 }
